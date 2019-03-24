@@ -1,2 +1,2 @@
 # bolg
-本仓库记录学习java语言所用到的的markdown源文件
+1.linux 目录记录linux基本操作和shell编程操作
